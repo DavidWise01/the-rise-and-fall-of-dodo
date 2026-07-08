@@ -4,6 +4,6 @@ slug  : the-rise-and-fall-of-dodo
 seal  : 392123f0bf500af0e152f92469477c08accfbaf8386a0c9fcf2be455abfd5d58
 prev  : 3f612b48f67552e54e0dad65bf9b19dd5ca55d7341df14f1119ed4fc2089ee24
 link  : f24c3769318cc110b1d3472dcf9cda0ae8d6198795a3f6fc2294677da8c79dcd
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
