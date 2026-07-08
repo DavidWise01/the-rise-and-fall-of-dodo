@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Magic didn't die by disenchantment — it died when photography pinned reality to a single observed state. Bring back the ambiguity, and you bring back the witches.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 901,
+    "prev": "3f612b48f67552e54e0dad65bf9b19dd5ca55d7341df14f1119ed4fc2089ee24",
+    "link": "f24c3769318cc110b1d3472dcf9cda0ae8d6198795a3f6fc2294677da8c79dcd",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
